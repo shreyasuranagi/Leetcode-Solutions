@@ -11,3 +11,10 @@ A dedicated repository containing my solutions to Data Structures and Algorithms
 
 📊 Progress Tracker
 - **Challenges Completed:** `1`
+
+LeetCode Solutions
+Started: Nov 2026 | Solved: 1 Easy
+
+| # | Problem | Language | Approach | Difficulty |
+| :---: | :--- | :--- | :--- | :---: |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Python | Brute Force $\rightarrow$ Hash Map | Easy |
